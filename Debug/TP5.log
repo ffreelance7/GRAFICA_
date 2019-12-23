@@ -1,0 +1,15 @@
+﻿  TextureManager.cpp
+  Generando código...
+  Compilando...
+  TP5.cpp
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(31,18): warning C4305:  'inicializando': truncamiento de 'double' a 'float'
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(38,29): warning C4018:  '<': no coinciden signed/unsigned
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(197,30): warning C4018:  '<': no coinciden signed/unsigned
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(198,31): warning C4018:  '<': no coinciden signed/unsigned
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(242,30): warning C4018:  '<': no coinciden signed/unsigned
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(296,30): warning C4018:  '<': no coinciden signed/unsigned
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(358,23): warning C4244:  'inicializando': conversión de 'GLfloat' a 'unsigned int'; posible pérdida de datos
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(420,41): warning C4244:  '=': conversión de 'GLfloat' a 'int'; posible pérdida de datos
+  Generando código...
+D:\UCSP\VII\GRAFICA\After_Parcial\TP5\TP5.cpp(425,41): warning C4244:  '=': conversión de 'GLfloat' a 'int'; posible pérdida de datos
+  TP5.vcxproj -> D:\UCSP\VII\GRAFICA\After_Parcial\TP4\Debug\TP5.exe
